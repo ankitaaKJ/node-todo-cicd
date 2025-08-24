@@ -2,7 +2,7 @@
 
 Run these commands:
 
-
+chnaged readme.md
 `sudo apt install nodejs`
 
 
