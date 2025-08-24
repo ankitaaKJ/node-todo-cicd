@@ -5,7 +5,7 @@ Run these commands:
 chnaged readme.md
 `sudo apt install nodejs`
 
-
+added 1 more
 `sudo apt install npm`
 
 
