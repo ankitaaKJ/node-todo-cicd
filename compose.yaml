@@ -1,6 +1,5 @@
 services:
  web:
   image: node-app-todo:latest
-  name: node-todo-app
   ports: 
    - 8000:8000
